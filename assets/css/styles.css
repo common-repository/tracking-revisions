@@ -1,0 +1,9 @@
+#wpadminbar #wp-admin-bar-atmcowpse .ab-icon:before {
+    content: "\f15e";
+    top: 3px;
+    color: greenyellow;
+    font-weight: 600;
+}
+.atmcotr-regular-text {
+    width: 30em;
+}

@@ -1,0 +1,217 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tracking Revisions\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-16 10:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: tracking-revisions"
+
+#: admin/class-admin.php:32 admin/class-admin.php:51 admin/class-admin.php:60
+#: admin/class-admin.php:79 admin/class-admin.php:96 admin/class-admin.php:259
+#: admin/class-admin.php:284 admin/class-admin.php:292
+#: admin/class-admin.php:308 admin/class-admin.php:323
+#, php-format
+msgid "<a href=\"%1$s\" target=\"_blank\">CLICK HERE</a>"
+msgstr ""
+
+#: admin/class-tracking-posts.php:138 admin/class-tracking-posts.php:208
+msgid "A post has been added on your website"
+msgstr ""
+
+#: admin/class-tracking-posts.php:118 admin/class-tracking-posts.php:188
+msgid "A post has been updated on your website"
+msgstr ""
+
+#: admin/class-tracking-posts.php:110 admin/class-tracking-posts.php:180
+msgid "A post has been updated on your website. But linkout (please check now)"
+msgstr ""
+
+#: admin/class-admin.php:105 admin/class-admin.php:114
+#: admin/class-admin.php:330 admin/class-admin.php:338
+msgid "after"
+msgstr ""
+
+#: admin/class-admin.php:67 admin/class-admin.php:187
+msgid "Bitrix24 Integration"
+msgstr ""
+
+#: admin/class-admin.php:85 admin/class-admin.php:201
+msgid "Chat ID"
+msgstr ""
+
+#: admin/class-tracking-posts.php:141 admin/class-tracking-posts.php:211
+msgid "Created At:"
+msgstr ""
+
+#: admin/class-tracking-posts.php:140 admin/class-tracking-posts.php:210
+msgid "Created By:"
+msgstr ""
+
+#: admin/class-admin.php:60 admin/class-admin.php:96 admin/class-admin.php:292
+#: admin/class-admin.php:323
+msgid "example:"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hien Nguyen Duy"
+msgstr ""
+
+#: admin/class-admin.php:105 admin/class-admin.php:330
+msgid "hours"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/tracking-revisions/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/hiennguyenduy/"
+msgstr ""
+
+#: admin/class-tracking-posts.php:145 admin/class-tracking-posts.php:215
+msgid "IP Address:"
+msgstr ""
+
+#: admin/class-tracking-posts.php:113 admin/class-tracking-posts.php:183
+msgid "Linkout:"
+msgstr ""
+
+#: admin/class-admin.php:57 admin/class-admin.php:93 admin/class-admin.php:179
+#: admin/class-admin.php:208
+msgid "Member ID"
+msgstr ""
+
+#: admin/class-admin.php:103 admin/class-admin.php:216
+msgid "Mention"
+msgstr ""
+
+#: admin/class-admin.php:114 admin/class-admin.php:338
+msgid "minutes"
+msgstr ""
+
+#: admin/class-admin.php:31 admin/class-admin.php:258
+#, php-format
+msgid ""
+"Need help? Try the <a href=\"%1$s\" target=\"_blank\">support forum</a>. "
+"This plugin is kindly brought to you by <a href=\"%2$s\" target=\"_blank\">"
+"Hien Nguyen Duy</a>"
+msgstr ""
+
+#: admin/class-admin.php:112 admin/class-admin.php:223
+msgid "Notification"
+msgstr ""
+
+#: admin/class-tracking-posts.php:133 admin/class-tracking-posts.php:203
+msgid "Old Author:"
+msgstr ""
+
+#: admin/class-admin.php:32 admin/class-admin.php:259
+msgid "please donate me"
+msgstr ""
+
+#: admin/class-admin.php:125 admin/class-admin.php:348
+msgid "Post / Page / Custom Post Type"
+msgstr ""
+
+#: admin/class-tracking-posts.php:89 admin/class-tracking-posts.php:159
+msgid "Post Title:"
+msgstr ""
+
+#: admin/class-tracking-posts.php:92 admin/class-tracking-posts.php:162
+msgid "Post Type:"
+msgstr ""
+
+#: admin/class-tracking-posts.php:91 admin/class-tracking-posts.php:161
+msgid "Post URL:"
+msgstr ""
+
+#: admin/class-admin.php:39 admin/class-admin.php:165
+msgid "Slack Integration"
+msgstr ""
+
+#: admin/class-admin.php:106 admin/class-admin.php:331
+msgid ""
+"The interval between two edits. If it goes past the above time, mention me "
+"on the Slack."
+msgstr ""
+
+#: admin/class-admin.php:115 admin/class-admin.php:339
+msgid ""
+"The interval between two edits. If it goes past the above time, notify me on "
+"the Slack."
+msgstr ""
+
+#: admin/class-admin.php:51 admin/class-admin.php:79 admin/class-admin.php:284
+#: admin/class-admin.php:308
+msgid ""
+"This is sensitive information. You should not share it with many people."
+msgstr ""
+
+#: admin/class-admin.php:263
+#, php-format
+msgid ""
+"To set a network wide default, go to <a href=\"%s\">Network Settings</a>."
+msgstr ""
+
+#: admin/class-admin.php:121 admin/class-admin.php:230
+msgid "Tracking"
+msgstr ""
+
+#. Description of the plugin
+msgid "Tracking all activities of the website"
+msgstr ""
+
+#. Name of the plugin
+msgid "Tracking Revisions"
+msgstr ""
+
+#: tracking-revisions.php:57
+msgid ""
+"TRACKING REVISIONS requires PHP 7.0 or higher. Please upgrade PHP and "
+"activate the TRACKING REVISIONS plugin again."
+msgstr ""
+
+#: tracking-revisions.php:54
+msgid ""
+"TRACKING REVISIONS requires WordPress 5.0 or higher. Please upgrade "
+"WordPress and activate the TRACKING REVISIONS plugin again."
+msgstr ""
+
+#: admin/class-admin.php:51 admin/class-admin.php:60 admin/class-admin.php:79
+#: admin/class-admin.php:96 admin/class-admin.php:284 admin/class-admin.php:292
+#: admin/class-admin.php:308 admin/class-admin.php:323
+msgid "Try do it"
+msgstr ""
+
+#: admin/class-tracking-posts.php:129 admin/class-tracking-posts.php:199
+msgid "Updated At:"
+msgstr ""
+
+#: admin/class-tracking-posts.php:128 admin/class-tracking-posts.php:198
+msgid "Updated By:"
+msgstr ""
+
+#: admin/class-admin.php:60 admin/class-admin.php:96 admin/class-admin.php:292
+#: admin/class-admin.php:323
+msgid "Use commas to add more data"
+msgstr ""
+
+#: admin/class-admin.php:48 admin/class-admin.php:76 admin/class-admin.php:172
+#: admin/class-admin.php:194
+msgid "Webhook URL"
+msgstr ""
+
+#: admin/class-admin.php:42 admin/class-admin.php:70 admin/class-admin.php:276
+#: admin/class-admin.php:300
+msgid "Yes, I do love it."
+msgstr ""
